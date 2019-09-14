@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://xahghathu.mattriley.me/sitemap.xml
